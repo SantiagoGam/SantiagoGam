@@ -29,7 +29,7 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. ğ
 ## ğŸ A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img width="2048" height="2048" alt="Imagen Gemini" src="https://github.com/user-attachments/assets/bf49c90b-cda9-4ed2-9e2b-0c83dde58ba6" />
+	<img width="2048" height="2048" alt="Imagen Gemini jpeg" src="https://github.com/user-attachments/assets/9a225a1b-c315-462a-87e2-5fd5826257d6" />
 </p>
 
 
