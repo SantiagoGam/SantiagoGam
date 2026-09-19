@@ -76,8 +76,8 @@
 <h2 align="center">🤝Let's get in touch</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="50" height="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="mailto:TU_CORREO@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" height="50" alt="Gmail" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/TU_USUARIO" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50" height="50" alt="Instagram" /></a>&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/TU_USUARIO" target="_blank"><img width="50" height="50" alt="codeforces" src="https://github.com/user-attachments/assets/20fc323e-4982-4253-a6f7-5c3520e3048f" /></a>
+  <a href="https://www.linkedin.com/in/santiago-gambino-035972181" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="50" height="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:santiagogambino23@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" height="50" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/santiago._.gambino/" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50" height="50" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/OrionChikito" target="_blank"><img width="50" height="50" alt="codeforces" src="https://github.com/user-attachments/assets/20fc323e-4982-4253-a6f7-5c3520e3048f" /></a>
 </p>
