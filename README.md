@@ -7,7 +7,7 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
 
-<img width="55%" height="100%" align="right" alt="Imagen Gemini jpeg" src="https://github.com/user-attachments/assets/503586c7-7fb6-400e-b5b1-70dd553c8223" />
+<img width="55%" height="100px" align="right" alt="Imagen Gemini jpeg" src="https://github.com/user-attachments/assets/503586c7-7fb6-400e-b5b1-70dd553c8223" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   
