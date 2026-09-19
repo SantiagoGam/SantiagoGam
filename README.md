@@ -10,15 +10,15 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 <img width="50%" height="200" align="right" alt="GitImage" style="border-radius: 20px;" src="https://github.com/user-attachments/assets/38de6233-03dd-4917-bfad-5673023efb82" />
 
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🔭 **I’m currently working on** CS50x (Harvard), backend development, and open-source contributions.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 **I’m currently learning** Computer Science fundamentals, advanced Python, and backend software architecture.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 🔍 **I’m looking to collaborate on** Open-source backend applications, Python tools, and data reporting systems.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 **Ask me about** Python, SQL, Power BI, Linux and CodeForces.
   
-- ⚡ Fun fact: Me gustan los girasoles.  
+- ⚡ **Fun fact** Heavy Duty training enthusiast, volleyball player, and daily Linux user.  
 
 ---
 
