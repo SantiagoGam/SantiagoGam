@@ -29,8 +29,9 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img width="2048" height="2048" alt="Imagen Gemini" src="https://github.com/user-attachments/assets/bf49c90b-cda9-4ed2-9e2b-0c83dde58ba6" />
 </p>
+
 
 ## 📫 Conéctate conmigo  
 
