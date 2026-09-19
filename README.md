@@ -26,6 +26,12 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 
 ---
 
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 ## 📫 Conéctate conmigo  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Gambino-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-gambino-035972181)  
