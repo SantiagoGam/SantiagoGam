@@ -1,13 +1,12 @@
-# 👋 ¡Hola! Soy Santiago  
+# 👋 Hi! I'm Santiago  
 
-💻 **Estudiante apasionado por el aprendizaje** y todo lo relacionado con la **programación**.  
-Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. 🚀  
+💻 **Computer Science student passionate about backend development** with Python, Flask, and SQL. Currently diving into AI and Prompt Engineering to level up my workflow as a developer. 🚀
 
 ---
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
+<h2> About Me</h2>
 
-<img width="50%" height="360" align="right" alt="GitImage" style="border-radius: 100px;" src="https://github.com/user-attachments/assets/38de6233-03dd-4917-bfad-5673023efb82" />
+<img width="50%" height="360px" align="right" alt="50dc5380-3904-40c9-868b-83691609a2ee" src="https://github.com/user-attachments/assets/61921b80-fa12-41cc-a455-4dc7bb8b307f" />
 
 
 - 🔭 **I’m currently working on** CS50x (Harvard), backend development, and open-source contributions.
@@ -64,9 +63,21 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 ![Buildozer](https://img.shields.io/badge/Buildozer-333333?style=for-the-badge&logo=android&logoColor=white) 
 
-## 📫 Conéctate conmigo  
+---
+<div align="center">
+  
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Santiago%20Gambino-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/santiago-gambino-035972181)  
-[![Gmail](https://img.shields.io/badge/Email-santiagogambino23@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=santiagogambino23@gmail.com)
+</div>
 
+---
 
+<h2 align="center">🤝Let's get in touch</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="50" height="50" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:TU_CORREO@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" height="50" alt="Gmail" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/TU_USUARIO" target="_blank"><img src="https://img.icons8.com/fluency/48/instagram-new.png" width="50" height="50" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/TU_USUARIO" target="_blank"><img width="50" height="50" alt="codeforces" src="https://github.com/user-attachments/assets/20fc323e-4982-4253-a6f7-5c3520e3048f" /></a>
+</p>
