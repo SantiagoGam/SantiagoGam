@@ -7,7 +7,7 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 150px></h2>
 
-<img width="50%" height="360" align="right" alt="GitImage" style="border-radius: 20px;" src="https://github.com/user-attachments/assets/38de6233-03dd-4917-bfad-5673023efb82" />
+<img width="50%" height="360" align="right" alt="GitImage" style="border-radius: 100px;" src="https://github.com/user-attachments/assets/38de6233-03dd-4917-bfad-5673023efb82" />
 
 
 - 🔭 **I’m currently working on** CS50x (Harvard), backend development, and open-source contributions.
