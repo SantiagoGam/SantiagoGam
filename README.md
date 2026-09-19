@@ -21,25 +21,6 @@ Siempre busco mejorar mis habilidades y construir proyectos que aporten valor. �
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiagoGam&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoGam&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Actualmente
-- Aprendiendo y reforzando **Python**, **desarrollo web** y **bases de datos**  
-- Explorando nuevas tecnologías para crecer como programador  
-
----
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	
-</p>
-
 
 ## 📫 Conéctate conmigo  
 
